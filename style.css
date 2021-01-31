@@ -1,0 +1,75 @@
+hr.half {
+	width: 50%;
+	color: blanchedalmond;
+}
+
+div.header_line {
+	color: red;
+	height: 30px;
+}
+
+div.body_centerimg {
+	width: 75%;
+	height: 60%;
+}
+
+div.body_new1 {
+	float: left;
+}
+
+div.body_new2 {
+	float: right;
+}
+
+img.news {
+	width: 35%;
+	height: 45%;
+}
+
+div.body_word {
+	float: left;
+	width: 75%;
+	height: 200%;
+}
+
+div.body_rightnav {
+	float: right;
+}
+
+hr.rightnav {
+	width: 45%;
+}
+
+p.tag {
+	width: 68px;
+	height: 26px;
+	background-color: antiquewhite;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	border-buttom-left-radius: 25px;
+	border-buttom-right-radius: 25px;
+}
+
+
+div.body_newslist {
+	float: left;
+	width: 65%;
+}
+
+div.body_advertisement {
+	float: right;
+}
+
+div.footer {
+	width: 25%;
+	background-color: black;
+	color: white;
+}
+
+div.footer_left {
+	float: left;
+}
+
+div.footer_right {
+	float: right;
+}
